@@ -1,0 +1,18 @@
+{
+  "discordInvites": {
+    "6767232165": "https://discord.gg/SSHP3Qu6uN"
+  },
+  "imageModes": {},
+  "comingSoon": [
+    {
+      "id": 6767232165,
+      "name": "Project Bloom",
+      "thumbnailUrl": "https://tr.rbxcdn.com/180DAY-957c24c2f1db737bf71c5b426658450c/768/432/GameMediaItem5/Webp/noFilter",
+      "description": "An exciting new test game. Stay tuned for alpha release dates!"
+    },
+    {
+      "id": 107440275695812,
+      "name": "Test Project"
+    }
+  ]
+}
