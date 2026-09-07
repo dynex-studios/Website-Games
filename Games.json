@@ -1,18 +1,1 @@
-{
-  "discordInvites": {
-    "6767232165": "https://discord.gg/SSHP3Qu6uN"
-  },
-  "imageModes": {},
-  "comingSoon": [
-    {
-      "id": 6767232165,
-      "name": "Bloom Press",
-      "thumbnailUrl": "https://tr.rbxcdn.com/180DAY-957c24c2f1db737bf71c5b426658450c/768/432/GameMediaItem5/Webp/noFilter",
-      "description": "An exciting upcoming game. Stay tuned for the alpha release!"
-    },
-    {
-      "id": 6330254608,
-      "name": "The Tide Reef"
-    }
-  ]
-}
+{   "discordInvites": {     "7269219099": "https://discord.gg/SSHP3Qu6uN"   },   "imageModes": {},   "comingSoon": [     {       "id": 7269219099,       "name": "The Forgotten Lands",       "thumbnailUrl": "https://tr.rbxcdn.com/180DAY-957c24c2f1db737bf71c5b426658450c/768/432/GameMediaItem5/Webp/noFilter",       "description": "An exciting upcoming game. Stay tuned for the alpha release!"     },     {       "id": 6330254608,       "name": "The Tide Reef"     }   ] }
