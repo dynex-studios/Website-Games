@@ -1,0 +1,18 @@
+{
+  "discordInvites": {
+    "7269219099": "https://discord.gg/invite here"
+  },
+  "imageModes": {},
+  "comingSoon": [
+    {
+      "id": 7269219099,
+      "name": "Template Name",
+      "thumbnailUrl": "https://tr.rbxcdn.com/180DAY-957c24c2f1db737bf71c5b426658450c/768/432/GameMediaItem5/Webp/noFilter",
+      "description": "Template Description"
+    },
+    {
+      "id": 6330254608,
+      "name": "Future Release"
+    }
+  ]
+}
